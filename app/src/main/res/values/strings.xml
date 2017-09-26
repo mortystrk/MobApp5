@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MobApp5</string>
+    <string name="not_all_fields_are_filled">Не все поля заполнены!</string>
+    <string name="no_physical_activity_selected">Выберите физическую активность!</string>
+    <string name="understood">Понял!</string>
+    <string name="incorrect_data">Введены некорректные данные!</string>
+    <string name="gender">Выберите пол!</string>
+</resources>
